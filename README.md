@@ -36,7 +36,7 @@ To build and run this project:
 
 |Animations / List-Detail   | Animations / Circular List/ |
 |--|--|
-| <center> <img src="https://media.giphy.com/media/YrquS6qE7hXmAD82Bf/giphy.gif" width="250"> </center> | <center> <img src="https://media.giphy.com/media/iNwDIyUWQ9tDo10tJ6/giphy.gif" width="250"> </center>|
+| <center> <img src="https://fb.watch/5vDBjlmz3w/" width="250"> </center> | <center> <img src="https://media.giphy.com/media/iNwDIyUWQ9tDo10tJ6/giphy.gif" width="250"> </center>|
 
 |App Clone / Twitter Profile Clone | [Custom AppBar & SliverAppBar](https://medium.com/@diegoveloper/flutter-increase-the-power-of-your-appbar-sliverappbar-c4f67c4e076f) |
 |--|--|

@@ -24,7 +24,7 @@ To build and run this project:
  
  | [**Collapsing Toolbar - Sliver App Bar**](https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif?alt=media&token=9bd24e21-da91-46d4-82fe-fa110786b6c6)      | [**Shared Element Transitions — Hero**](https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif)     | 
 |------------|-------------| 
-|  <img src="https://i.giphy.com/media/Rkm9EU8uRHDb6IQOHI/giphy.webp" width="250"> |  <img src="https://media3.giphy.com/media/iXqcpP8SvGktAj5OL4/giphy.gif?cid=ecf05e47lbfkbjaccma16kzwlatee9f698bamw16qc8zs8oy&rid=giphy.gif&ct=g" width="250"> |
+|  <img src="https://media2.giphy.com/media/Rkm9EU8uRHDb6IQOHI/giphy.gif" width="250"> |  <img src="https://media3.giphy.com/media/iXqcpP8SvGktAj5OL4/giphy.gif?cid=ecf05e47lbfkbjaccma16kzwlatee9f698bamw16qc8zs8oy&rid=giphy.gif&ct=g" width="250"> |
 
  | [**ScrollController and ScrollNotification**](https://medium.com/@diegoveloper/flutter-lets-know-the-scrollcontroller-and-scrollnotification-652b2685a4ac)      | [**App Clone - Android Messages**](https://medium.com/@diegoveloper/flutter-app-clone-android-messages-e4b034a6c893)     | 
 |------------|-------------| 

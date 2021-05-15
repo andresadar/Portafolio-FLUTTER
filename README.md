@@ -23,7 +23,7 @@ To build and run this project:
  
  | [**FESTIVAL & EVENTS**](https://www.instagram.com/andresadd)                          | [**Splash screen in Flutter**](https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif?alt=media&token=9bd24e21-da91-46d4-82fe-fa110786b6c6)     | 
 |------------|-------------| 
-|  <img src="https://cdn-images-1.medium.com/max/1600/1*Px0kTaFj9fnY2VJdrWGJgA.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*GfM4eb_y_rM6BaAgDYBWZA.gif" width="250"> |
+|  <img src="https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif?alt=media&token=9bd24e21-da91-46d4-82fe-fa110786b6c6" width="250"> |
 
  | [**Fetching & Parsing JSON data**](https://medium.com/@diegoveloper/flutter-fetching-parsing-json-data-c019ddddaa34)      | [**Persistent Tab bars**](https://medium.com/@diegoveloper/flutter-persistent-tab-bars-a26220d322bc)     | 
 |------------|-------------| 

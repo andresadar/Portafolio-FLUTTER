@@ -75,4 +75,4 @@ To build and run this project:
 
    | [Animations / Shrink Top List](https://www.youtube.com/watch?v=becUP_s-KfU) | Animations / Neon Button |
 |--|--|
-| <center> <img src="https://media.giphy.com/media/Rkm9EU8uRHDb6IQOHI/giphy.gif" width="250"/> </center> | <center><img src="https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif?alt=media&token=9bd24e21-da91-46d4-82fe-fa110786b6c6" width="250"/> </center>
+| <center> <img src="https://s3.gifyu.com/images/festivalandevents.gif" width="250"/> </center> | <center><img src="https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif?alt=media&token=9bd24e21-da91-46d4-82fe-fa110786b6c6" width="250"/> </center>

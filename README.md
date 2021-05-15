@@ -1,13 +1,7 @@
-# apps
+# Apps Samples
+You can follow me on instagram [@andresadar](https://www.instagram.com/andresadd)
 
-You can follow me on twitter [@diegoveloper](https://www.twitter.com/diegoveloper)
-
-<a href='https://www.buymeacoffee.com/diegoveloper' target="_blank" rel="noopener noreferrer"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"/></a>
-
-
-
-
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/YouTube_Logo.svg/800px-YouTube_Logo.svg.png' width="250">
+<img src='https://imagenpng.com/wp-content/uploads/2018/03/logoinstagram3.png' width="250">
 
 ## Getting Started
 To build and run this project:
@@ -21,13 +15,13 @@ To build and run this project:
 
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/_yL6bHB6oPA/0.jpg)](http://www.youtube.com/watch?v=_yL6bHB6oPA "diegoveloper")
+[![IMAGE ALT TEXT](https://flutter.dev/images/flutter-logo-sharing.png)](https://www.instagram.com/andresadd "andresadar")
 
 
-## FLUTTER SAMPLES
+## APPS SAMPLES
 
  
- | [**Hello Flutter**](https://medium.com/@diegoveloper/hello-flutter-eb49e9b27916)      | [**Splash screen in Flutter**](https://medium.com/@diegoveloper/flutter-splash-screen-9f4e05542548)     | 
+ | [**FESTIVAL & EVENTS**](https://www.instagram.com/andresadd)                          | [**Splash screen in Flutter**](https://firebasestorage.googleapis.com/v0/b/arena-d5a7c.appspot.com/o/gifs%2Ffestivalandevents.gif?alt=media&token=9bd24e21-da91-46d4-82fe-fa110786b6c6)     | 
 |------------|-------------| 
 |  <img src="https://cdn-images-1.medium.com/max/1600/1*Px0kTaFj9fnY2VJdrWGJgA.gif" width="250"> |  <img src="https://cdn-images-1.medium.com/max/1600/1*GfM4eb_y_rM6BaAgDYBWZA.gif" width="250"> |
 

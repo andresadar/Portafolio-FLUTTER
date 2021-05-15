@@ -73,4 +73,3 @@ To build and run this project:
 |--|--|
 | <center> <img src="https://media.giphy.com/media/QuIvsrhjCr4oPS49qa/giphy.gif" width="250"/> </center> | <center> <img src="https://media.giphy.com/media/gF30YeWCn0Ncf0qxCS/giphy.gif" width="250"/>
 
-   |

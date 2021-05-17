@@ -60,6 +60,14 @@ class SelectProject extends StatelessWidget {
                 Navigator.pushNamed(context, '/TravelApp');
               },
             ),
+            const SizedBox(height: 20),
+            CupertinoButton(
+              color: Colors.blue,
+              child: Text('Doctor App'),
+              onPressed: () {
+                Navigator.pushNamed(context, '/DoctorApp');
+              },
+            ),
           ],
         ),
       ),

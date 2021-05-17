@@ -14,10 +14,6 @@ To build and run this project:
 (Please note that a Mac with XCode is required to build for iOS)
 
 
-
-[![IMAGE ALT TEXT](https://flutter.dev/images/flutter-logo-sharing.png)](https://www.instagram.com/andresadd "andresadar")
-
-
 ## APPS SAMPLES
 
  

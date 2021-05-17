@@ -33,3 +33,5 @@ To build and run this project:
  | [**Moky (Privado)**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)      | [**Moky(Privado)**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)     | 
 |------------|-------------| 
 |  <img src="https://scontent.fpei3-1.fna.fbcdn.net/v/t1.6435-9/186985959_4657701314257829_7755292822271288127_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeE8LbnC6tPNr_mqBw9zbZ_Ok_ju1Bbzx1eT-O7UFvPHVwU-_yVg7VBTYSn8QHsfYGYjiT6C_CVKloBjk4SWHCG3&_nc_ohc=gnz94sYFnPcAX8wZjtj&_nc_ht=scontent.fpei3-1.fna&oh=3a3b86a6a9a336014dbf227c202a7c3f&oe=60C7838B" width="250"> |  <img src="https://scontent.fpei3-1.fna.fbcdn.net/v/t1.6435-9/186472583_4657701504257810_5651922634912570333_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeGfug7GqeCFMTL8jM9ru5lmbGiJGq_cSLxsaIkar9xIvE-hZz3kz5JQbWBz1Ndys9ExvQ-Vyx38paWYbqOWdrDY&_nc_ohc=JdoIFYVGegkAX-2-Wvn&_nc_ht=scontent.fpei3-1.fna&oh=04c46c9d729e727c9a00b2c9116821a4&oe=60C7767E" width="250"> |
+
+

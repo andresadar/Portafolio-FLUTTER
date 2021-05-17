@@ -4,6 +4,7 @@ import 'package:portafolio_andres_arenas/Recipe_food/pages/home/rf_home.dart';
 import 'package:portafolio_andres_arenas/Travel_app/pages/ta_home.dart';
 import 'package:portafolio_andres_arenas/doctor_app/pages/da_home.dart';
 import 'package:portafolio_andres_arenas/main.dart';
+import 'package:portafolio_andres_arenas/nike_colors/pages/nc_home.dart';
 import 'package:portafolio_andres_arenas/routes/routes.dart';
 
 abstract class Pages {
@@ -14,5 +15,6 @@ abstract class Pages {
     Routes.RECIPE_FOOD: (_) => RFHomePage(),
     Routes.TRAVEL_APP: (_) => TAHomePage(),
     Routes.DOCTOR_APP: (_) => DAHomePage(),
+    Routes.NIKE_COLORS: (_) => NCHomePage(),
   };
 }

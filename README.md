@@ -35,8 +35,7 @@ To build and run this project:
 |------------|-------------| 
 |  <img src="https://media1.giphy.com/media/y677x3sYsUWIBy0MWj/giphy.gif?cid=790b7611b1f3200211049183276ad32eb901942c36fd3a12&rid=giphy.gif&ct=g" width="250"> |  <img src="https://media0.giphy.com/media/vRE8ukRy6sACdopqcm/giphy.gif?cid=790b7611711d35c19e19930d42949ed480e0ed39113853e4&rid=giphy.gif&ct=g" width="250"> |
 
- | [**Video App**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)      | [**Video App**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)     | 
-|------------|-------------| 
+ | [**Video App**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)
 |  <img src="https://media1.giphy.com/media/kt65Zi9IJY98s1Z0Sz/giphy.gif?cid=790b7611a279bf1b3e409ce423298f308bb6af0ef212b807&rid=giphy.gif&ct=g" width="250"> |  
 
  | [**Moky (Privado)**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)      | [**Moky(Privado)**](https://play.google.com/store/apps/details?id=com.desarrolloygestion.gestioncasinos.gestion_casinos)     | 
